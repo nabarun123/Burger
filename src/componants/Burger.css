@@ -1,0 +1,33 @@
+.upperBun {
+  height: 120px;
+  width: 450px;
+  background-color: orange;
+  border-radius: 50% 50% 5px 5px;
+}
+
+.burgerVeggie {
+  height: 15px;
+  width: 450px;
+  background-color: green;
+
+  border-radius: 3px;
+}
+
+.bergerPetty {
+  display: flex;
+}
+
+.burgerCheese {
+  height: 10px;
+  width: 450px;
+  background-color: yellow;
+
+  border-radius: 5px;
+}
+
+.lowerBun {
+  height: 60px;
+  width: 450px;
+  background-color: orange;
+  border-radius: 5px 5px 20px 20px;
+}
